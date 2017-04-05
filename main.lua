@@ -1,6 +1,6 @@
--- name    ac2辅助
+-- name    《光明大陆》辅助
 -- author  Etrom
--- date    2017/2/14
+-- date    2017/4/4
 -- info    for ipad air 2 :2048×1536
 
 require "TSLib"
